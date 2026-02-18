@@ -1,6 +1,6 @@
 ## TUM Admission Essay – Trustworthy Machine Learning
 
-This repository contains an essay written for my application to the Technical University of Munich (TUM).
+This repository contains an essay written for my application to the Technical University of Munich (TUM) in 2021.
 
 **Topic**  
 “Explaining what learned models predict: In which cases can we trust machine learning models, and when is caution required?”
