@@ -2,7 +2,11 @@
 
 This repository contains an essay written for my application to the Technical University of Munich (TUM).
 
-The essay explores the question:  
-**“Explaining what learned models predict: In which cases can we trust machine learning models, and when is caution required?”**
+**Topic**  
+“Explaining what learned models predict: In which cases can we trust machine learning models, and when is caution required?”
 
-It discusses the limitations of machine learning systems, including inherent data bias, competing definitions of fairness, and the challenges of building trustworthy AI. The essay also examines how explainability and accountability contribute to responsible and reliable machine learning.
+**Essay length:** limited to 1,000 words.
+
+The essay examines the limitations of machine learning systems, focusing on inherent data bias, competing definitions of fairness, and the difficulty of achieving fully trustworthy AI. It discusses why bias-free data and universally fair models are practically unattainable, and how different fairness criteria can conflict depending on context.
+
+In addition, the essay explores the role of explainability in enabling humans to interpret model behavior, evaluate predictions, and identify hidden biases. It also highlights accountability and regulation as essential foundations for responsible deployment. Overall, the essay argues that trust in machine learning must be conditional, context-dependent, and supported by transparency and human oversight.
